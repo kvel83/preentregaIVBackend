@@ -1,0 +1,115 @@
+[
+    {
+        "id": 0,
+        "code": 123,
+        "title": "primer producto",
+        "price": 123123123,
+        "thumbnail": "ruta imagen",
+        "description": "descripcion",
+        "stock": 10
+    },
+    {
+        "id": 1,
+        "code": 124,
+        "title": "segundo producto",
+        "price": 999999,
+        "thumbnail": "ruta imagen 2",
+        "description": "descripcion 2",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "code": 125,
+        "title": "tercer producto",
+        "price": 888888,
+        "thumbnail": "ruta imagen 3",
+        "description": "descripcion 3",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "code": 12125,
+        "title": "cuarto producto",
+        "price": 777777,
+        "thumbnail": "ruta imagen 4",
+        "description": "descripcion 4",
+        "stock": 40
+    },
+    {
+        "id": 4,
+        "code": 126,
+        "title": "quinto producto",
+        "price": 666666,
+        "thumbnail": "ruta imagen 5",
+        "description": "descripcion 5",
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "code": 127,
+        "title": "sexto producto",
+        "price": 555555,
+        "thumbnail": "ruta imagen 6",
+        "description": "descripcion 6",
+        "stock": 60
+    },
+    {
+        "id": 6,
+        "code": 129,
+        "title": "septimo producto",
+        "price": 555555,
+        "thumbnail": "ruta imagen 7",
+        "description": "descripcion 7",
+        "stock": 70
+    },
+    {
+        "id": 7,
+        "code": 200,
+        "title": "octavo producto",
+        "price": 2122222,
+        "thumbnail": "ruta imagen 8",
+        "description": "descripcion 8",
+        "stock": 80
+    },
+    {
+        "id": 8,
+        "code": 111111,
+        "title": "noveno producto",
+        "price": 444444,
+        "thumbnail": "ruta imagen 9",
+        "description": "descripcion 9",
+        "stock": 90
+    },
+    {
+        "id": 9,
+        "code": 99,
+        "title": "decimo producto",
+        "price": 101010101,
+        "thumbnail": "ruta imagen 10",
+        "description": "descripcion 10",
+        "stock": 100
+    },
+    {
+        "code": 100,
+        "title": "nuevo producto",
+        "price": 10000,
+        "thumbnail": "",
+        "description": "nuevo producto de test",
+        "stock": 1000,
+        "id": "62000044-94a2-42ab-a104-8d11c41debb8"
+    },
+    {
+        "products": [],
+        "quantity": 0,
+        "id": "057bc78e-190e-4274-96b9-b8be718e6206"
+    },
+    {
+        "pid": "4f3019df-2f33-4d74-87d3-a53bda0e2d37",
+        "code": 789,
+        "title": "nuevecito",
+        "price": 456456,
+        "thumbnail": "asdasdas",
+        "description": "sadasdasdasdasdasdasd",
+        "stock": 12
+    }
+]

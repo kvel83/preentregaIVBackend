@@ -1,0 +1,24 @@
+[
+    {
+        "cid": "as345fsdec2455",
+        "products": [
+            {
+                "productId": "62000044-94a2-42ab-a104-8d11c41debb8",
+                "quantity": 3
+            },
+            {
+                "productId": "62000044-94a2-42ab",
+                "quantity": 2
+            },
+            {
+                "productId": "62000044-94a2-42",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "products": [],
+        "quantity": 0,
+        "id": "99f94f0e-f3a1-42dc-88e5-d2ca5566400e"
+    }
+]
